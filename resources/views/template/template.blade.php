@@ -1,0 +1,41 @@
+
+
+
+
+<p style="margin-left:134.7pt;">&nbsp;</p>
+<p style="margin-left:134.7pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">is to certify that the</span></p>
+<p style="margin-left:134.7pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:14.0pt;"><span lang="EN-US" dir="ltr"><strong>{{ sertifikat }}</strong></span></span></p>
+<p style="margin-left:134.7pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">Of</span></p>
+<p style="margin-left:134.7pt;"><span style="color:black;font-family:&quot;Cambria&quot;,serif;font-size:18.0pt;"><strong>{{ entitas_usaha }}</strong></span></p>
+<p style="margin-left:134.7pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:12.0pt;"><strong>{{ alamat }}</strong></span></p>
+<p style="margin-left:134.7pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">Has&nbsp;been&nbsp;audited&nbsp;and&nbsp;certified&nbsp;as&nbsp;meeting&nbsp;the&nbsp;requirements&nbsp;of</span></p>
+<p style="margin-left:134.7pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:36.0pt;"><span lang="EN-US" dir="ltr"><strong>{{ standar }}</strong></span></span></p>
+<p style="margin-left:140.35pt;text-align:justify;">&nbsp;</p>
+<p style="margin-left:140.35pt;text-align:justify;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">This certificate valid for the following scope of operation :</span></p>
+<p style="margin-left:5.0cm;text-align:justify;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:12.0pt;"><strong>{{ ruang_lungkup }}</strong></span></p>
+<p style="margin-left:5.0cm;text-align:justify;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><i>EAC : {{ eac }}</i></span></p>
+<p style="margin-left:140.35pt;text-align:justify;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><i>NACE : {{ nace }}</i></span></p>
+<p style="margin-left:140.35pt;text-align:justify;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><strong>This certificate is valid from {{ masa_berlaku }} &nbsp;</strong></span></p>
+<p style="margin-left:140.35pt;text-align:justify;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><strong>Certificate valid until {{ hingga }}</strong></span></p>
+<p style="margin-left:140.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">Recertification&nbsp;audit&nbsp;before&nbsp;{{ perpanjangan }}.&nbsp;This&nbsp;certificate&nbsp;is&nbsp;the&nbsp;property&nbsp;of</span></p>
+<p style="margin-left:140.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">IMS&nbsp;Indonesia and remains valid subject to satisfactory annual surveillance audit</span></p>
+<p style="margin-left:140.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">Main Audit by IMS-Indonesia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : {{ audit_awal }}</span></p>
+<p style="margin-left:140.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">1st Surveillance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : {{ pengawasan_audit_1 }}</span></p>
+<p style="margin-left:140.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">2nd Surveillance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : {{ pengawasan_audit_2 }}</span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3rd Recertification&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : {{ perpanjangan }}</span></p>
+<p style="margin-left:104.35pt;">&nbsp;</p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Authorized by :<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificate Number : (( no_sertifikat }}</strong></span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register Number : {{no_regis }}</strong></span></p>
+<p style="margin-left:104.35pt;">&nbsp;</p>
+<p style="margin-left:104.35pt;">&nbsp;</p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></p>
+<p style="margin-left:104.35pt;">&nbsp;</p>
+<p style="margin-left:104.35pt;">&nbsp;</p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Signed on behalf of IMS-Indonesia</span></p>
+<p style="margin-left:104.35pt;">&nbsp;</p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PT. IMS</strong></span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Grand Depok City - Ruko De’Caspia Blok B18</span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jl. Boulevard Raya, Grand Depok City, Depok - Indonesia</span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Phone / Fax : (021) 2951 1290</span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Website : www.ims-indonesia.org</span></p>
+<p style="margin-left:104.35pt;"><span style="font-family:&quot;Cambria&quot;,serif;font-size:11pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email : admin@ims-indonesia.org</span></p>
