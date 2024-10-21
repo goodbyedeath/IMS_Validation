@@ -5,7 +5,7 @@ use App\Http\Controllers\Admin\AdminAuthController;
 use App\Http\Controllers\Admin\AdminDashboardController;
 use App\Http\Controllers\Admin\AdminCom_tablesController;
 use App\Http\Controllers\Front\DocumentController;
-use App\Http\Controllers\front\FrontController;
+use App\Http\Controllers\Front\FrontController;
 
 Route::get('/', [FrontController::class, 'index'])->name('');
 Route::get('/', [FrontController::class, 'search2'])->name('search2');
